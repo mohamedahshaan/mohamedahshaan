@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:09090B,50:0F172A,100:06B6D4&text=MOHAMED%20AHSHAAN&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0F172A,70:06B6D4,100:22D3EE&text=MOHAMED%20AHSHAAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+Developer;Building+LLM+%26+AI+Applications;Deep+Learning+%7C+Computer+Vision+%7C+NLP"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%26+DATA+SCIENCE+UNDERGRADUATE;MACHINE+LEARNING+DEVELOPER;BUILDING+LLM+%26+AI+APPLICATIONS;DEEP+LEARNING+%7C+NLP+%7C+COMPUTER+VISION"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -15,10 +15,10 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
 ```python
-class MohamedAhshaan:
+class MohamedAhshaan():
 
     def __init__(self):
         self.role = "AI & Data Science Undergraduate"
@@ -28,56 +28,65 @@ class MohamedAhshaan:
         self.skills = [
             "Machine Learning",
             "Deep Learning",
-            "Computer Vision",
             "LLMs",
             "NLP",
-            "Data Science"
+            "Computer Vision",
+            "AI Automation"
         ]
 
-    def current_focus(self):
-        return "Building AI-powered real-world solutions 🚀"
+    def goal(self):
+        return "Building real-world AI solutions 🚀"
 ```
 
-✨ AI & Data Science undergraduate passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and LLM-based applications.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM5bTR5YW8wNnB3eGRhN2t4d3lncXF0M2x1OXF2YTI4YWNxNG16eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🚀 Interested in:
-- AI Applications
+✨ AI & Data Science undergraduate passionate about building intelligent systems using modern AI technologies.
+
+🚀 Currently focused on:
+- AI/ML Engineering
 - Generative AI
-- Computer Vision
-- Data Analytics
-- Prompt Engineering
+- LLM Applications
+- Deep Learning
 - AI Automation Systems
+- Real-world AI Products
+
+🎯 Looking for:
+- AI/ML Internships
+- Research Opportunities
+- Open Source Collaboration
+
+<br><br>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,html,css,js,mysql,git,github,vscode,aws&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,html,css,js,mysql,git,github,vscode,aws&perline=7"/>
 
 </div>
 
 ---
 
-# 🧠 Skills
+# 🧠 SKILLS
 
 <div align="center">
 
-| AI & ML | Development | Data |
+| AI / ML | Development | Data Science |
 |---|---|---|
 | Machine Learning | Flask | Pandas |
 | Deep Learning | FastAPI | NumPy |
-| CNN Models | REST APIs | Data Cleaning |
-| NLP & LLMs | HTML/CSS/JS | EDA |
-| Prompt Engineering | Git/GitHub | Visualization |
+| NLP & LLMs | REST APIs | Data Cleaning |
+| Prompt Engineering | HTML/CSS/JS | Data Analysis |
+| Computer Vision | Git/GitHub | Visualization |
 | AI Automation | SQL | Model Evaluation |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -88,10 +97,10 @@ class MohamedAhshaan:
 
 ## 🏥 MRI vs Non-MRI Classifier
 
-✔ CNN-based image classification system  
+✔ CNN Image Classification  
 ✔ TensorFlow & Keras  
-✔ Image preprocessing & augmentation  
-✔ Achieved high validation accuracy  
+✔ Image Augmentation  
+✔ Medical AI Project  
 
 </td>
 
@@ -99,10 +108,10 @@ class MohamedAhshaan:
 
 ## 🤖 AI Medical Chatbot
 
-✔ LLM-powered chatbot system  
-✔ TinyLLaMA & Hugging Face  
-✔ Prompt engineering & NLP  
-✔ AI-powered healthcare assistance  
+✔ LLM-based Chatbot  
+✔ TinyLLaMA Integration  
+✔ Prompt Engineering  
+✔ NLP Application  
 
 </td>
 </tr>
@@ -112,21 +121,21 @@ class MohamedAhshaan:
 
 ## 📊 CSVInsightAI
 
-✔ AI-powered CSV analysis platform  
-✔ Data visualization & ML models  
-✔ Streamlit + Scikit-learn  
-✔ Automated analytics workflow  
+✔ AI-powered CSV Analyzer  
+✔ Automated Analytics  
+✔ Data Visualization  
+✔ ML Predictions  
 
 </td>
 
 <td width="50%">
 
-## 📉 Customer Churn Prediction
+## 📉 Dementia Prediction System
 
-✔ Telecom customer prediction model  
-✔ Feature engineering & preprocessing  
-✔ Multiple ML algorithms tested  
-✔ Accuracy & performance optimization  
+✔ ML Classification Models  
+✔ Feature Engineering  
+✔ Random Forest / XGBoost  
+✔ Healthcare AI Solution  
 
 </td>
 </tr>
@@ -137,7 +146,7 @@ class MohamedAhshaan:
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -145,35 +154,29 @@ class MohamedAhshaan:
 
 <img width="49%" src="https://streak-stats.demolab.com?user=mohamedahshaan&theme=tokyonight&hide_border=true&background=0D1117"/>
 
+<br><br>
+
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahshaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🌐 Portfolio & Profiles
+# 🌐 CONNECT WITH ME
 
 <div align="center">
-
-<a href="https://ictwithahshaan.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
 
 <a href="https://github.com/mohamedahshaan">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://ictwithahshaan.github.io">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 📬 Contact
-
-<div align="center">
 
 <a href="mailto:mohamedahshaan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -187,10 +190,35 @@ class MohamedAhshaan:
 
 ---
 
+# 🏆 CURRENT FOCUS
+
+```txt
+✓ AI/ML Projects
+✓ LLM Applications
+✓ Deep Learning Research
+✓ Building Portfolio Projects
+✓ Internship Preparation
+✓ Open Source Contributions
+```
+
+---
+
+# 🔥 PROFILE VIEWS
+
 <div align="center">
 
-### ⚡ Building the Future with AI ⚡
+<img src="https://komarev.com/ghpvc/?username=mohamedahshaan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090B,50:0F172A,100:06B6D4"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:0F172A,70:06B6D4,100:22D3EE"/>
 
 </div>
