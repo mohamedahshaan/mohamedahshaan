@@ -1,31 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0F172A,70:06B6D4,100:22D3EE&text=MOHAMED%20AHSHAAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,50:06B6D4,100:22D3EE&text=MOHAMED%20AHSHAAN&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%26+DATA+SCIENCE+UNDERGRADUATE;MACHINE+LEARNING+DEVELOPER;BUILDING+LLM+%26+AI+APPLICATIONS;DEEP+LEARNING+%7C+NLP+%7C+COMPUTER+VISION"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=AI+%26+DATA+SCIENCE+UNDERGRADUATE;MACHINE+LEARNING+ENGINEER;BUILDING+LLM+%26+AI+APPLICATIONS;DEEP+LEARNING+%7C+NLP+%7C+COMPUTER+VISION"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamedahshaan&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 ABOUT ME
+<div align="center">
+
+# ⚡ WELCOME TO MY AI UNIVERSE ⚡
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ```python
-class MohamedAhshaan():
+class MohamedAhshaan:
 
     def __init__(self):
+
         self.role = "AI & Data Science Undergraduate"
         self.university = "IIT Campus • RGU UK"
         self.location = "Colombo, Sri Lanka"
 
-        self.skills = [
+        self.specialization = [
             "Machine Learning",
             "Deep Learning",
             "LLMs",
@@ -34,46 +47,54 @@ class MohamedAhshaan():
             "AI Automation"
         ]
 
-    def goal(self):
-        return "Building real-world AI solutions 🚀"
+    def current_focus(self):
+        return "Building Real-World AI Products 🚀"
 ```
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM5bTR5YW8wNnB3eGRhN2t4d3lncXF0M2x1OXF2YTI4YWNxNG16eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### 👨‍💻 About Me
 
-✨ AI & Data Science undergraduate passionate about building intelligent systems using modern AI technologies.
+✨ Passionate about building intelligent systems using AI, ML, Deep Learning and LLM technologies.
 
-🚀 Currently focused on:
-- AI/ML Engineering
+🚀 Currently exploring:
 - Generative AI
+- AI Agents
 - LLM Applications
-- Deep Learning
-- AI Automation Systems
+- Deep Learning Systems
+- AI Automation
 - Real-world AI Products
 
-🎯 Looking for:
-- AI/ML Internships
-- Research Opportunities
-- Open Source Collaboration
+🎯 Goal:
+> Build impactful AI products that solve real-world problems.
 
-<br><br>
+</td>
 
----
-
-# ⚡ TECH STACK
+<td width="40%">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,html,css,js,mysql,git,github,vscode,aws&perline=7"/>
+<img width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 🧠 SKILLS
+# ⚒️ TECH STACK
 
 <div align="center">
 
-| AI / ML | Development | Data Science |
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,html,css,js,mysql,git,github,vscode,aws&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| AI / ML | Development | Data |
 |---|---|---|
 | Machine Learning | Flask | Pandas |
 | Deep Learning | FastAPI | NumPy |
@@ -93,14 +114,17 @@ class MohamedAhshaan():
 <table>
 
 <tr>
+
 <td width="50%">
 
 ## 🏥 MRI vs Non-MRI Classifier
 
-✔ CNN Image Classification  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+✔ CNN-based image classification  
 ✔ TensorFlow & Keras  
-✔ Image Augmentation  
-✔ Medical AI Project  
+✔ Medical AI solution  
+✔ Image preprocessing & augmentation  
 
 </td>
 
@@ -108,23 +132,29 @@ class MohamedAhshaan():
 
 ## 🤖 AI Medical Chatbot
 
-✔ LLM-based Chatbot  
+<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
+
+✔ LLM-powered chatbot  
 ✔ TinyLLaMA Integration  
-✔ Prompt Engineering  
-✔ NLP Application  
+✔ NLP & Prompt Engineering  
+✔ AI healthcare assistance  
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 📊 CSVInsightAI
 
-✔ AI-powered CSV Analyzer  
-✔ Automated Analytics  
-✔ Data Visualization  
-✔ ML Predictions  
+<img src="https://img.shields.io/badge/Data%20Analytics-06B6D4?style=flat-square&logo=python&logoColor=white"/>
+
+✔ AI-powered CSV analysis  
+✔ Automated insights  
+✔ Data visualization  
+✔ ML prediction workflow  
 
 </td>
 
@@ -132,12 +162,15 @@ class MohamedAhshaan():
 
 ## 📉 Dementia Prediction System
 
-✔ ML Classification Models  
-✔ Feature Engineering  
-✔ Random Forest / XGBoost  
-✔ Healthcare AI Solution  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+✔ ML classification models  
+✔ Random Forest & XGBoost  
+✔ Feature engineering  
+✔ Healthcare prediction system  
 
 </td>
+
 </tr>
 
 </table>
@@ -171,7 +204,7 @@ class MohamedAhshaan():
 </a>
 
 <a href="https://ictwithahshaan.github.io">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
@@ -192,22 +225,37 @@ class MohamedAhshaan():
 
 # 🏆 CURRENT FOCUS
 
+<div align="center">
+
 ```txt
-✓ AI/ML Projects
-✓ LLM Applications
+✓ AI/ML Engineering
 ✓ Deep Learning Research
-✓ Building Portfolio Projects
+✓ LLM Applications
+✓ AI Automation Systems
+✓ Portfolio Projects
 ✓ Internship Preparation
 ✓ Open Source Contributions
 ```
 
+</div>
+
 ---
 
-# 🔥 PROFILE VIEWS
+# 🔥 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mohamedahshaan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahshaan&bg_color=0D1117&color=22D3EE&line=06B6D4&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ RANDOM DEV QUOTE
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -215,10 +263,8 @@ class MohamedAhshaan():
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+# 🚀 BUILDING THE FUTURE WITH AI 🚀
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:0F172A,70:06B6D4,100:22D3EE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,30:0F172A,70:06B6D4,100:22D3EE"/>
 
 </div>
