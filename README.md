@@ -1,106 +1,199 @@
-<!-- README.md — Futuristic Neon Style (Style A) -->
+<!-- ========================= -->
+<!-- 🚀 FUTURISTIC GITHUB README -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=artstation&logoColor=white" alt="AI badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white" alt="Data badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Mohamed+Ahshaan;AI+%26+Data+Science+Undergraduate;Machine+Learning+%7C+LLMs+%7C+Deep+Learning;Building+AI-Powered+Solutions+for+the+Future" alt="Typing SVG"/>
 </p>
 
-<h1 align="center">🌌 Mohamed Ahshaan — AI & Data Science | ML Developer</h1>
-
 <p align="center">
-  <strong>AI & DS Undergraduate (IIT · RGU UK)</strong> • ML • Deep Learning • NLP • Web Dev • ICT Education
-</p>
-
----
-
-## ⚡ About Me
-
-I build practical ML models, data-driven solutions, and responsive web experiences. I teach GCE O/L ICT (Tamil medium) and create educational resources. Currently looking for internships and collaborations in AI/ML and ed-tech.
-
-- 📍 Colombo, Sri Lanka
-- 🎓 BSc (Hons) Artificial Intelligence & Data Science — IIT (RGU) — 2024 – Present
-- 🏅 IIT Foundation Programme — Distinction Pass (2024)
-- 📫 mohamedahshaan@gmail.com
-
----
-
-## 🚀 Quick Links
-
-- 🔗 Portfolio: https://ictwithahshaan.github.io
-- 📄 CV (download): `/mnt/data/CV.pdf`  <!-- replace with ./CV.pdf on GitHub -->
-- 🐙 GitHub: https://github.com/mohamedahshaan
-
----
-
-## 🔥 Skills & Big Logos
-
-<p align="center">
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Featured Projects
+# 👨‍💻 Mohamed Ahshaan
 
-### 1. MRI vs Non-MRI Classifier — CNN (TensorFlow / Keras)
-- CNN built to classify brain images as MRI vs non-MRI.
-- Data preprocessing, augmentation, training in Google Colab.
-- **Status:** Notebook & repo coming.
+### 🚀 AI & Data Science Undergraduate | ML Engineer | AI Enthusiast
 
-### 2. Dementia Risk Classification
-- Compared Random Forest, XGBoost, Gradient Boosting, Logistic Regression.
-- Performed feature engineering and evaluation (ROC, F1).
-- **Result:** ~85% accuracy (on chosen dataset).
-- **Status:** Notebook & repo coming.
-
-### 3. One Net Café — Inventory System (Python CLI)
-- Item/dealer/order management with file persistence.
-- Modular CLI design.
-- **Status:** Repo coming.
-
-### 4. ICTWithAhshaan — Educational Website
-- Responsive HTML/CSS/JS site for O/L ICT students (Tamil medium).
-- Unit notes, MCQs, class info.
-- **Live:** https://ictwithahshaan.github.io
-- **Source:** https://github.com/mohamedahshaan/ictwithahshaan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedahshaan&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
-## 📦 Tools & Stack
+# 🌌 About Me
 
-Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Jupyter / Colab • Git • HTML/CSS/JS • SQL
+✨ Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and modern software technologies.
 
----
+🎓 Currently pursuing **BSc (Hons) Artificial Intelligence & Data Science** at **IIT Campus** affiliated with **Robert Gordon University (UK)**.
 
-## 🎯 Goals
+💡 Interested in:
 
-- Gain industry experience through internships in ML / Data Science.
-- Build ML solutions in healthcare & ed-tech.
-- Publish reproducible notebooks and open-source tools for students.
+- 🤖 AI & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- 📊 Data Science & Analytics
+- 🌐 Full-Stack Development
+- 🧪 Deep Learning & Computer Vision
+- 🎓 Educational Technology (EdTech)
 
----
-
-## 📞 Contact
-
-- Email: mohamedahshaan@gmail.com  
-- Phone / WhatsApp: +94 742 663 484  
-- Portfolio: https://ictwithahshaan.github.io
+📍 Colombo, Sri Lanka
 
 ---
 
-## 📌 Notes for Deployment
+# ⚡ Current Focus
 
-- The CV link in this README points to `/mnt/data/CV.pdf` (your uploaded file path). When you push to GitHub, place `CV.pdf` at the repo root and update the link to `./CV.pdf` or a GitHub raw link so visitors can download it.
-- Replace placeholder `coming` links with actual GitHub repo URLs once uploaded.
+- Building AI-powered applications
+- Learning LLMs & Agentic AI systems
+- Exploring LangChain & AI APIs
+- Developing practical ML projects
+- Searching for AI/ML internship opportunities
 
 ---
 
-### ✨ Want a banner image, animated GIF logos or a ready-to-publish GitHub Pages repo (with `CV.pdf`, images, and repo README set up)? I can generate those files next — tell me which assets you'd like included and I'll produce them.
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+</p>
+
+---
+
+# 🧠 Featured Projects
+
+## 🏥 MRI vs Non-MRI Classifier
+### Deep Learning • TensorFlow • CNN
+
+- Built a CNN model to classify MRI and non-MRI brain images
+- Applied preprocessing & augmentation techniques
+- Trained and evaluated using TensorFlow/Keras
+
+---
+
+## 🧓 Dementia Risk Prediction System
+### Machine Learning • Data Analytics
+
+- Compared:
+  - Random Forest
+  - XGBoost
+  - Gradient Boosting
+  - Logistic Regression
+
+- Achieved strong prediction performance using feature engineering and model evaluation.
+
+---
+
+## ☕ One Net Café Inventory System
+### Python CLI Application
+
+- Inventory & dealer management system
+- File handling and modular architecture
+- Built using Python command-line interface concepts
+
+---
+
+## 🌐 ICTWithAhshaan Educational Platform
+
+🔗 Portfolio:  
+👉 https://ictwithahshaan.github.io
+
+🔗 GitHub Repository:  
+👉 https://github.com/mohamedahshaan/ictwithahshaan
+
+Features:
+- ICT Notes
+- MCQs
+- Educational Resources
+- Tamil Medium Learning Platform
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedahshaan&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahshaan&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Most Used Languages
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahshaan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Career Goals
+
+✅ Gain real-world industry experience in AI & ML  
+✅ Build impactful AI-powered applications  
+✅ Contribute to open-source projects  
+✅ Develop intelligent healthcare & ed-tech solutions  
+✅ Become an AI Engineer specializing in LLM systems
+
+---
+
+# 📚 Education
+
+🎓 **BSc (Hons) Artificial Intelligence & Data Science**  
+🏛️ IIT Campus — Robert Gordon University (UK)  
+📅 2024 – Present
+
+🏅 **Foundation Programme — Distinction Pass**  
+🏛️ IIT Campus  
+📅 2024
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mohamedahshaan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohamedahshaan">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ictwithahshaan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> “Success in AI is not just about building models — it’s about building solutions that impact lives.”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following my GitHub profile!
+</p>
