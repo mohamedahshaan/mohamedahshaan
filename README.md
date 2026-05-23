@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0f172a,100:00d9ff&text=Mohamed%20Ahshaan&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0f172a,100:00d9ff&text=MOHAMED%20AHSHAAN&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
-# ⚡ AI • MACHINE LEARNING • DATA SCIENCE
+# ⚡ AI & DATA SCIENCE UNDERGRADUATE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+Developer;LLM+%26+Deep+Learning+Enthusiast;Building+AI-Powered+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Developer;Deep+Learning+Enthusiast;LLM+%26+AI+Applications;Building+Real-World+AI+Solutions"/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -26,12 +27,12 @@ class MohamedAhshaan:
         self.university = "IIT Campus | RGU UK"
         self.location = "Colombo, Sri Lanka"
 
-        self.interests = [
-            "Artificial Intelligence",
+        self.focus = [
             "Machine Learning",
             "Deep Learning",
-            "LLMs & Agentic AI",
+            "LLMs & AI Applications",
             "Computer Vision",
+            "Natural Language Processing",
             "Data Science"
         ]
 
@@ -39,13 +40,33 @@ class MohamedAhshaan:
         return "Building impactful AI-powered solutions 🚀"
 ```
 
+💡 AI & Data Science undergraduate passionate about Machine Learning, Deep Learning, NLP, and LLM-powered applications.  
+🚀 Experienced in developing end-to-end AI solutions, model training, feature engineering, data preprocessing, and deploying intelligent applications.
+
 ---
 
 # ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,html,css,js,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,html,css,js,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+# 🧠 What I Know
+
+<div align="center">
+
+| AI & ML | Data Science | Tools & Deployment |
+|---|---|---|
+| Machine Learning | Data Preprocessing | Git & GitHub |
+| Deep Learning | Feature Engineering | Streamlit |
+| CNN Models | EDA & Visualization | Flask |
+| NLP & LLMs | SQL & Analytics | FastAPI |
+| Hugging Face | Power BI & Tableau | REST APIs |
+| Prompt Engineering | Model Evaluation | AWS Basics |
 
 </div>
 
@@ -53,45 +74,33 @@ class MohamedAhshaan:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🏥 MRI vs Non-MRI Image Classifier
+🔹 Built a CNN-based image classification model using TensorFlow & Keras  
+🔹 Applied image augmentation, dropout & batch normalization  
+🔹 Evaluated using Accuracy, Precision, Recall & F1 Score  
 
-## 🏥 MRI vs Non-MRI Classifier
+---
 
-Deep Learning image classification system using CNNs and TensorFlow for MRI image detection.
+## 🤖 MRI Brain Tumor Chatbot (LLM Project)
+🔹 Developed transformer-based medical chatbot using TinyLLaMA  
+🔹 Fine-tuned using 1000+ domain-specific Q&A pairs  
+🔹 Integrated Hugging Face Transformers & API inference  
+🔹 Worked with prompt engineering & LLM workflows  
 
-</td>
+---
 
-<td width="50%">
+## 📊 CSVInsightAI — AI Data Analysis Platform
+🔹 Developed end-to-end machine learning platform for CSV analysis  
+🔹 Built preprocessing pipeline with scaling, encoding & feature engineering  
+🔹 Compared multiple ML models including Random Forest, SVM & Gradient Boosting  
+🔹 Developed interactive Streamlit-based web application  
 
-## 🧓 Dementia Risk Prediction
+---
 
-Machine Learning system using Random Forest, XGBoost & Logistic Regression.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🌐 ICTWithAhshaan
-
-Educational platform for Tamil-medium ICT students.
-
-🔗 https://ictwithahshaan.github.io
-
-</td>
-
-<td width="50%">
-
-## ☕ One Net Café System
-
-Python CLI-based inventory management system with modular architecture.
-
-</td>
-</tr>
-</table>
+## 📉 Customer Churn Prediction
+🔹 Built ML classification system using telecom dataset (7000+ records)  
+🔹 Applied preprocessing, feature engineering & model evaluation  
+🔹 Analyzed feature importance affecting customer churn  
 
 ---
 
@@ -107,17 +116,19 @@ Python CLI-based inventory management system with modular architecture.
 
 ---
 
-# 🧠 Currently Exploring
+# 🏆 Achievements
 
-<div align="center">
+🏅 IIT Foundation Programme — Distinction Pass  
+🏅 Participated in MODELX Machine Learning Competition  
+🏅 Developed multiple AI & ML projects using real-world datasets  
 
-| AI/ML | Data Science | Modern AI |
-|---|---|---|
-| Deep Learning | Data Analytics | LLMs |
-| Computer Vision | Visualization | Agentic AI |
-| Model Training | SQL & Power BI | AI APIs |
+---
 
-</div>
+# 🌐 Portfolio & Links
+
+🔗 Portfolio: https://ictwithahshaan.github.io  
+🔗 GitHub: https://github.com/mohamedahshaan  
+🔗 LinkedIn: https://linkedin.com/in/mohamedahshaan  
 
 ---
 
@@ -133,7 +144,7 @@ Python CLI-based inventory management system with modular architecture.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamedahshaan">
+<a href="https://linkedin.com/in/mohamedahshaan">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -143,7 +154,7 @@ Python CLI-based inventory management system with modular architecture.
 
 <div align="center">
 
-### ✨ Building intelligent systems for the future ✨
+### ✨ “Building intelligent systems for the future.” ✨
 
 </div>
 
