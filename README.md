@@ -23,7 +23,11 @@
 
 # ⚡ WELCOME TO MY AI UNIVERSE ⚡
 
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
+
+---
 
 <table>
 <tr>
@@ -72,7 +76,7 @@ class MohamedAhshaan:
 
 <div align="center">
 
-<img width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
@@ -88,9 +92,15 @@ class MohamedAhshaan:
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,html,css,js,mysql,git,github,vscode,aws&theme=dark"/>
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedahshaan&theme=algolia&no-frame=true&row=1&column=6"/>
+
 </div>
 
-<br>
+---
+
+# 🧠 SKILLS
 
 <div align="center">
 
@@ -195,6 +205,16 @@ class MohamedAhshaan:
 
 ---
 
+# 🔥 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahshaan&bg_color=0D1117&color=22D3EE&line=06B6D4&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
 # 🌐 CONNECT WITH ME
 
 <div align="center">
@@ -223,7 +243,7 @@ class MohamedAhshaan:
 
 ---
 
-# 🏆 CURRENT FOCUS
+# ⚡ CURRENT FOCUS
 
 <div align="center">
 
@@ -241,21 +261,11 @@ class MohamedAhshaan:
 
 ---
 
-# 🔥 CONTRIBUTION GRAPH
+# 🧬 AI TERMINAL
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahshaan&bg_color=0D1117&color=22D3EE&line=06B6D4&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ RANDOM DEV QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
 
